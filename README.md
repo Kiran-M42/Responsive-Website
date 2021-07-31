@@ -1,2 +1,2 @@
 # Responsive Navigation.
-Toggle Menu Bar.
+Toggle Menu-Bar.
